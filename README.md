@@ -1,4 +1,4 @@
-# Hands-on-dotnet-core
+# Hands on ASP.Net Core
 Source code files from my Hands on ASP.NET Core course on Udemy
 
 
