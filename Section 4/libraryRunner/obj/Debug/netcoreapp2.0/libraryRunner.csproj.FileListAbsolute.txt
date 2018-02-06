@@ -1,0 +1,12 @@
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\libraryRunner.deps.json
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\libraryRunner.runtimeconfig.json
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\libraryRunner.runtimeconfig.dev.json
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\libraryRunner.dll
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\libraryRunner.pdb
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\stringModifier.dll
+C:\Users\jerem\projects\libraryRunner\bin\Debug\netcoreapp2.0\stringModifier.pdb
+C:\Users\jerem\projects\libraryRunner\obj\Debug\netcoreapp2.0\libraryRunner.csproj.CoreCompileInputs.cache
+C:\Users\jerem\projects\libraryRunner\obj\Debug\netcoreapp2.0\libraryRunner.AssemblyInfoInputs.cache
+C:\Users\jerem\projects\libraryRunner\obj\Debug\netcoreapp2.0\libraryRunner.AssemblyInfo.cs
+C:\Users\jerem\projects\libraryRunner\obj\Debug\netcoreapp2.0\libraryRunner.dll
+C:\Users\jerem\projects\libraryRunner\obj\Debug\netcoreapp2.0\libraryRunner.pdb

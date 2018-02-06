@@ -1,0 +1,15 @@
+C:\Users\jerem\projects\libraryTester\obj\Debug\netcoreapp2.0\libraryTester.csproj.CoreCompileInputs.cache
+C:\Users\jerem\projects\libraryTester\obj\Debug\netcoreapp2.0\libraryTester.AssemblyInfoInputs.cache
+C:\Users\jerem\projects\libraryTester\obj\Debug\netcoreapp2.0\libraryTester.AssemblyInfo.cs
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\libraryTester.deps.json
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\libraryTester.runtimeconfig.json
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\libraryTester.runtimeconfig.dev.json
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\libraryTester.dll
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\libraryTester.pdb
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\stringModifier.dll
+C:\Users\jerem\projects\libraryTester\bin\Debug\netcoreapp2.0\stringModifier.pdb
+C:\Users\jerem\projects\libraryTester\obj\Debug\netcoreapp2.0\libraryTester.dll
+C:\Users\jerem\projects\libraryTester\obj\Debug\netcoreapp2.0\libraryTester.pdb

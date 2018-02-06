@@ -1,0 +1,10 @@
+C:\Users\jerem\projects\apidemo\bin\Debug\netcoreapp2.0\apidemo.deps.json
+C:\Users\jerem\projects\apidemo\bin\Debug\netcoreapp2.0\apidemo.runtimeconfig.json
+C:\Users\jerem\projects\apidemo\bin\Debug\netcoreapp2.0\apidemo.runtimeconfig.dev.json
+C:\Users\jerem\projects\apidemo\bin\Debug\netcoreapp2.0\apidemo.dll
+C:\Users\jerem\projects\apidemo\bin\Debug\netcoreapp2.0\apidemo.pdb
+C:\Users\jerem\projects\apidemo\obj\Debug\netcoreapp2.0\apidemo.csproj.CoreCompileInputs.cache
+C:\Users\jerem\projects\apidemo\obj\Debug\netcoreapp2.0\apidemo.AssemblyInfoInputs.cache
+C:\Users\jerem\projects\apidemo\obj\Debug\netcoreapp2.0\apidemo.AssemblyInfo.cs
+C:\Users\jerem\projects\apidemo\obj\Debug\netcoreapp2.0\apidemo.dll
+C:\Users\jerem\projects\apidemo\obj\Debug\netcoreapp2.0\apidemo.pdb

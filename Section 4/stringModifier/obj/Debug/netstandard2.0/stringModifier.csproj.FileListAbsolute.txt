@@ -1,0 +1,8 @@
+C:\Users\jerem\projects\stringModifier\bin\Debug\netstandard2.0\stringModifier.deps.json
+C:\Users\jerem\projects\stringModifier\bin\Debug\netstandard2.0\stringModifier.dll
+C:\Users\jerem\projects\stringModifier\bin\Debug\netstandard2.0\stringModifier.pdb
+C:\Users\jerem\projects\stringModifier\obj\Debug\netstandard2.0\stringModifier.csproj.CoreCompileInputs.cache
+C:\Users\jerem\projects\stringModifier\obj\Debug\netstandard2.0\stringModifier.AssemblyInfoInputs.cache
+C:\Users\jerem\projects\stringModifier\obj\Debug\netstandard2.0\stringModifier.AssemblyInfo.cs
+C:\Users\jerem\projects\stringModifier\obj\Debug\netstandard2.0\stringModifier.dll
+C:\Users\jerem\projects\stringModifier\obj\Debug\netstandard2.0\stringModifier.pdb

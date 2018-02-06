@@ -1,0 +1,10 @@
+C:\Users\jerem\projects\mvctest\bin\Debug\netcoreapp2.0\mvctest.deps.json
+C:\Users\jerem\projects\mvctest\bin\Debug\netcoreapp2.0\mvctest.runtimeconfig.json
+C:\Users\jerem\projects\mvctest\bin\Debug\netcoreapp2.0\mvctest.runtimeconfig.dev.json
+C:\Users\jerem\projects\mvctest\bin\Debug\netcoreapp2.0\mvctest.dll
+C:\Users\jerem\projects\mvctest\bin\Debug\netcoreapp2.0\mvctest.pdb
+C:\Users\jerem\projects\mvctest\obj\Debug\netcoreapp2.0\mvctest.csproj.CoreCompileInputs.cache
+C:\Users\jerem\projects\mvctest\obj\Debug\netcoreapp2.0\mvctest.AssemblyInfoInputs.cache
+C:\Users\jerem\projects\mvctest\obj\Debug\netcoreapp2.0\mvctest.AssemblyInfo.cs
+C:\Users\jerem\projects\mvctest\obj\Debug\netcoreapp2.0\mvctest.dll
+C:\Users\jerem\projects\mvctest\obj\Debug\netcoreapp2.0\mvctest.pdb
