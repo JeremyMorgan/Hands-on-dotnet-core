@@ -1,0 +1,10 @@
+C:\Users\jerem\projects\hwfancy\bin\Debug\netcoreapp2.0\hwfancy.deps.json
+C:\Users\jerem\projects\hwfancy\bin\Debug\netcoreapp2.0\hwfancy.runtimeconfig.json
+C:\Users\jerem\projects\hwfancy\bin\Debug\netcoreapp2.0\hwfancy.runtimeconfig.dev.json
+C:\Users\jerem\projects\hwfancy\bin\Debug\netcoreapp2.0\hwfancy.dll
+C:\Users\jerem\projects\hwfancy\bin\Debug\netcoreapp2.0\hwfancy.pdb
+C:\Users\jerem\projects\hwfancy\obj\Debug\netcoreapp2.0\hwfancy.csproj.CoreCompileInputs.cache
+C:\Users\jerem\projects\hwfancy\obj\Debug\netcoreapp2.0\hwfancy.AssemblyInfoInputs.cache
+C:\Users\jerem\projects\hwfancy\obj\Debug\netcoreapp2.0\hwfancy.AssemblyInfo.cs
+C:\Users\jerem\projects\hwfancy\obj\Debug\netcoreapp2.0\hwfancy.dll
+C:\Users\jerem\projects\hwfancy\obj\Debug\netcoreapp2.0\hwfancy.pdb
