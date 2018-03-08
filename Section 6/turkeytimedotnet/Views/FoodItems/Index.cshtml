@@ -1,0 +1,54 @@
+@model IEnumerable<turkeytime.Models.FoodItem>
+
+    @{
+        ViewData["Title"] = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Index</h2>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FoodItemName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Person)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.IsVegan)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.IsGlutenFree)
+                    </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FoodItemName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Person)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsVegan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsGlutenFree)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+    

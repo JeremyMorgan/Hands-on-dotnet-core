@@ -1,0 +1,10 @@
+/home/jeremy/projects/turkeytime/bin/Debug/netcoreapp2.0/turkeytime.deps.json
+/home/jeremy/projects/turkeytime/bin/Debug/netcoreapp2.0/turkeytime.runtimeconfig.json
+/home/jeremy/projects/turkeytime/bin/Debug/netcoreapp2.0/turkeytime.runtimeconfig.dev.json
+/home/jeremy/projects/turkeytime/bin/Debug/netcoreapp2.0/turkeytime.dll
+/home/jeremy/projects/turkeytime/bin/Debug/netcoreapp2.0/turkeytime.pdb
+/home/jeremy/projects/turkeytime/obj/Debug/netcoreapp2.0/turkeytime.csproj.CoreCompileInputs.cache
+/home/jeremy/projects/turkeytime/obj/Debug/netcoreapp2.0/turkeytime.AssemblyInfoInputs.cache
+/home/jeremy/projects/turkeytime/obj/Debug/netcoreapp2.0/turkeytime.AssemblyInfo.cs
+/home/jeremy/projects/turkeytime/obj/Debug/netcoreapp2.0/turkeytime.dll
+/home/jeremy/projects/turkeytime/obj/Debug/netcoreapp2.0/turkeytime.pdb
